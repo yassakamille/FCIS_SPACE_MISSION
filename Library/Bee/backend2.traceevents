@@ -1,0 +1,479 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1715649195747973, "dur":38052, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1715649195786046, "dur":272148, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1715649196058293, "dur":85, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1715649196058379, "dur":866, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1715649196059449, "dur":90, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":0, "ts":1715649196059565, "dur":82, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":0, "ts":1715649196059662, "dur":214, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":0, "ts":1715649196059897, "dur":115, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":0, "ts":1715649196060027, "dur":241, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/level0" }}
+,{ "pid":12345, "tid":0, "ts":1715649196060286, "dur":155, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/level0.resS" }}
+,{ "pid":12345, "tid":0, "ts":1715649196060463, "dur":131, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/level1" }}
+,{ "pid":12345, "tid":0, "ts":1715649196060616, "dur":137, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/level1.resS" }}
+,{ "pid":12345, "tid":0, "ts":1715649196060774, "dur":199, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/level2" }}
+,{ "pid":12345, "tid":0, "ts":1715649196060989, "dur":151, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/level2.resS" }}
+,{ "pid":12345, "tid":0, "ts":1715649196061159, "dur":135, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/resources.assets" }}
+,{ "pid":12345, "tid":0, "ts":1715649196061309, "dur":137, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":0, "ts":1715649196061463, "dur":137, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":0, "ts":1715649196061617, "dur":123, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":0, "ts":1715649196061756, "dur":137, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":0, "ts":1715649196061915, "dur":204, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":0, "ts":1715649196062141, "dur":141, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":0, "ts":1715649196062305, "dur":143, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":0, "ts":1715649196062466, "dur":124, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":0, "ts":1715649196062955, "dur":103, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/sharedassets1.resource" }}
+,{ "pid":12345, "tid":0, "ts":1715649196063071, "dur":328, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":0, "ts":1715649196063419, "dur":239, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/sharedassets2.assets.resS" }}
+,{ "pid":12345, "tid":0, "ts":1715649196063681, "dur":93, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/boot.config" }}
+,{ "pid":12345, "tid":0, "ts":1715649196063792, "dur":164, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":0, "ts":1715649196064002, "dur":60, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"WriteText Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":0, "ts":1715649196064135, "dur":74, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715649196064218, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715649196064282, "dur":125, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715649196064422, "dur":99, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715649196064534, "dur":104, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715649196064651, "dur":85, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715649196064753, "dur":152, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715649196064922, "dur":141, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715649196065090, "dur":95, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715649196065198, "dur":57, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715649196065265, "dur":104, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715649196065382, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715649196065651, "dur":67, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715649196065732, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715649196065808, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715649196065873, "dur":124, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715649196066011, "dur":109, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715649196066133, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715649196066197, "dur":100, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715649196066309, "dur":70, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715649196066401, "dur":63, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715649196066475, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715649196066538, "dur":124, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715649196066676, "dur":101, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715649196066790, "dur":57, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715649196066857, "dur":120, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715649196066991, "dur":131, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715649196067145, "dur":57, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715649196067212, "dur":449, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715649196067698, "dur":282, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715649196068171, "dur":111, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715649196068300, "dur":156, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715649196068479, "dur":112, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715649196068615, "dur":153, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715649196068791, "dur":112, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715649196068925, "dur":192, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715649196069139, "dur":165, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715649196069329, "dur":132, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715649196069483, "dur":234, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715649196069735, "dur":240, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715649196069994, "dur":157, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715649196070173, "dur":159, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715649196070347, "dur":101, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715649196070462, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715649196070528, "dur":123, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715649196070666, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715649196070732, "dur":104, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715649196071130, "dur":86, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715649196071246, "dur":185, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715649196071462, "dur":121, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715649196071599, "dur":122, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715649196071735, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715649196071801, "dur":122, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715649196071938, "dur":102, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715649196072054, "dur":87, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715649196072163, "dur":92, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715649196072268, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715649196072333, "dur":101, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715649196072447, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715649196072511, "dur":101, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715649196072625, "dur":113, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715649196072750, "dur":96, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715649196072859, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715649196072922, "dur":121, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715649196073058, "dur":62, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715649196073188, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715649196073264, "dur":85, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715649196073361, "dur":115, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715649196073489, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715649196073552, "dur":121, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715649196073688, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715649196073753, "dur":104, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/Managed/Unity.AI.Navigation.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715649196073891, "dur":87, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715649196073991, "dur":140, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715649196074145, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715649196074209, "dur":102, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715649196074324, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715649196074387, "dur":123, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715649196074532, "dur":81, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715649196074626, "dur":136, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715649196074783, "dur":104, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715649196074900, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715649196074963, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715649196075089, "dur":59, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715649196075167, "dur":82, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715649196075262, "dur":116, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715649196075391, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715649196075455, "dur":100, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715649196075567, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715649196075631, "dur":122, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715649196075768, "dur":97, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715649196075878, "dur":113, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715649196076004, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715649196076067, "dur":127, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715649196076208, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715649196076272, "dur":103, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715649196076388, "dur":99, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715649196076500, "dur":95, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715649196076607, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/app.info" }}
+,{ "pid":12345, "tid":0, "ts":1715649196076671, "dur":119, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":0, "ts":1715649196076805, "dur":57, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":0, "ts":1715649196076916, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project.exe" }}
+,{ "pid":12345, "tid":0, "ts":1715649196076982, "dur":146, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715649196077145, "dur":99, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715649196077257, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":0, "ts":1715649196077321, "dur":124, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":0, "ts":1715649196077459, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":0, "ts":1715649196077524, "dur":102, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":0, "ts":1715649196077640, "dur":149, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":0, "ts":1715649196077813, "dur":61, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":0, "ts":1715649196077885, "dur":114, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":0, "ts":1715649196078012, "dur":166, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":0, "ts":1715649196078194, "dur":100, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":0, "ts":1715649196078310, "dur":158, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":0, "ts":1715649196078489, "dur":123, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":0, "ts":1715649196078634, "dur":106, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":0, "ts":1715649196078752, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":0, "ts":1715649196078815, "dur":123, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":0, "ts":1715649196078959, "dur":83, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":0, "ts":1715649196079054, "dur":132, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":0, "ts":1715649196079371, "dur":95, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":0, "ts":1715649196079479, "dur":69, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":0, "ts":1715649196079562, "dur":72, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":0, "ts":1715649196079665, "dur":88, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715649196059417, "dur":20338, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1715649196079760, "dur":408242, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1715649196488343, "dur":4517, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1715649196061074, "dur":18710, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1715649196079796, "dur":14862, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1715649196104070, "dur":1855, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":1, "ts":1715649196105974, "dur":166, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1715649196106170, "dur":138, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":1, "ts":1715649196106777, "dur":182, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\yassa\\Game Design Project\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":1, "ts":1715649196106962, "dur":376, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\yassa\\Game Design Project\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":1, "ts":1715649196107341, "dur":598, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\yassa\\Game Design Project\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":1, "ts":1715649196107942, "dur":171, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\yassa\\Game Design Project\\Library\\Bee\\PlayerScriptAssemblies\\Unity.AI.Navigation.dll" }}
+,{ "pid":12345, "tid":1, "ts":1715649196108116, "dur":791, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\yassa\\Game Design Project\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":1, "ts":1715649196108910, "dur":1449, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\yassa\\Game Design Project\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1715649196110364, "dur":242, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\yassa\\Game Design Project\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":1, "ts":1715649196110609, "dur":896, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\yassa\\Game Design Project\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":1, "ts":1715649196105971, "dur":5922, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1715649196112607, "dur":238, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1715649196112852, "dur":78, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1715649196113758, "dur":363617, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1715649196486534, "dur":184, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1715649196486533, "dur":187, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1715649196486753, "dur":968, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1715649196061115, "dur":18691, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1715649196079813, "dur":3689, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1715649196083504, "dur":3544, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1715649196087050, "dur":1114, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1715649196088164, "dur":6521, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1715649196094728, "dur":238, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.27f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\mconfig\\config.xml" }}
+,{ "pid":12345, "tid":2, "ts":1715649196094693, "dur":274, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":2, "ts":1715649196094968, "dur":117, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1715649196106563, "dur":2309, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":2, "ts":1715649196109027, "dur":169, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":2, "ts":1715649196109197, "dur":72, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1715649196109297, "dur":3920, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":2, "ts":1715649196113322, "dur":189, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.27f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\machine.config" }}
+,{ "pid":12345, "tid":2, "ts":1715649196113318, "dur":195, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":2, "ts":1715649196113787, "dur":2820, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":2, "ts":1715649196116724, "dur":206, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.27f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\web.config" }}
+,{ "pid":12345, "tid":2, "ts":1715649196116719, "dur":213, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1715649196116934, "dur":56, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1715649196117217, "dur":1822, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1715649196119141, "dur":193, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":2, "ts":1715649196119405, "dur":1812, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":2, "ts":1715649196121330, "dur":179, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":2, "ts":1715649196122929, "dur":103, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1715649196121603, "dur":1481, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":2, "ts":1715649196123177, "dur":255, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":2, "ts":1715649196123434, "dur":59, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1715649196123761, "dur":1352, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":2, "ts":1715649196125208, "dur":90, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Temp\\StagingArea\\WindowsPlayer.exe" }}
+,{ "pid":12345, "tid":2, "ts":1715649196125207, "dur":93, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project.exe" }}
+,{ "pid":12345, "tid":2, "ts":1715649196125357, "dur":1820, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project.exe" }}
+,{ "pid":12345, "tid":2, "ts":1715649196127290, "dur":208, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":2, "ts":1715649196127793, "dur":15922, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":2, "ts":1715649196143892, "dur":1587, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":2, "ts":1715649196145745, "dur":1719, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":2, "ts":1715649196147603, "dur":982, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":2, "ts":1715649196150203, "dur":58, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1715649196148797, "dur":1478, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":2, "ts":1715649196151919, "dur":249, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1715649196150530, "dur":1699, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":2, "ts":1715649196152422, "dur":87, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1715649196152561, "dur":2365, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":2, "ts":1715649196155034, "dur":148, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1715649196155208, "dur":1333, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":2, "ts":1715649196156646, "dur":64, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1715649196156739, "dur":2962, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":2, "ts":1715649196159868, "dur":173, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1715649196160069, "dur":1618, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":2, "ts":1715649196161854, "dur":70, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1715649196161929, "dur":1398, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":2, "ts":1715649196163475, "dur":1162, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1715649196164720, "dur":62, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1715649196164839, "dur":882, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1715649196165861, "dur":880, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1715649196166896, "dur":1402, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1715649196168383, "dur":57, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1715649196168653, "dur":1057, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1715649196169886, "dur":1237, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1715649196171333, "dur":1081, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1715649196172600, "dur":2391, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1715649196175083, "dur":98, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1715649196175207, "dur":912, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1715649196177577, "dur":70, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1715649196176262, "dur":1418, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1715649196177800, "dur":1961, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1715649196179789, "dur":175, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1715649196179968, "dur":1517, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1715649196181602, "dur":123, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1715649196181912, "dur":141, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1715649196182057, "dur":1414, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1715649196183569, "dur":107, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1715649196183703, "dur":1157, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1715649196184977, "dur":55, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1715649196185057, "dur":1822, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1715649196187140, "dur":1525, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1715649196188828, "dur":1340, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1715649196190351, "dur":879, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1715649196191413, "dur":1294, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1715649196192867, "dur":72, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1715649196192943, "dur":3502, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1715649196196635, "dur":877, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1715649196197613, "dur":50, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1715649196197690, "dur":902, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1715649196198691, "dur":50, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1715649196198797, "dur":931, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1715649196201028, "dur":486, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1715649196199960, "dur":1575, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1715649196201715, "dur":912, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1715649196202823, "dur":89, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1715649196202916, "dur":1028, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1715649196204030, "dur":162, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.27f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityPlayer.dll" }}
+,{ "pid":12345, "tid":2, "ts":1715649196204027, "dur":167, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":2, "ts":1715649196204249, "dur":98138, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":2, "ts":1715649196302504, "dur":185345, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1715649196061268, "dur":18559, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1715649196079836, "dur":3597, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1715649196083435, "dur":3551, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1715649196086988, "dur":1237, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1715649196088226, "dur":6453, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1715649196094708, "dur":253, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1715649196104143, "dur":62, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1715649196104665, "dur":4183, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/app.info" }}
+,{ "pid":12345, "tid":3, "ts":1715649196108853, "dur":233, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":3, "ts":1715649196109220, "dur":2804, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":3, "ts":1715649196112115, "dur":178, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1715649196112294, "dur":53, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1715649196115172, "dur":89, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1715649196113068, "dur":2239, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1715649196115433, "dur":267, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1715649196118001, "dur":73, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1715649196116262, "dur":1847, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1715649196118226, "dur":191, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.27f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1715649196118222, "dur":197, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1715649196118474, "dur":1753, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1715649196120324, "dur":186, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.27f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\web.config" }}
+,{ "pid":12345, "tid":3, "ts":1715649196120321, "dur":191, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1715649196120833, "dur":1338, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1715649196122256, "dur":174, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":3, "ts":1715649196122489, "dur":1965, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":3, "ts":1715649196124556, "dur":306, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.27f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":3, "ts":1715649196124552, "dur":312, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":3, "ts":1715649196124911, "dur":149, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1715649196125195, "dur":32922, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":3, "ts":1715649196158318, "dur":50, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1715649196158395, "dur":1786, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":3, "ts":1715649196161840, "dur":178, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1715649196160429, "dur":1706, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/Managed/Unity.AI.Navigation.dll" }}
+,{ "pid":12345, "tid":3, "ts":1715649196162212, "dur":73, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1715649196164741, "dur":84, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1715649196162308, "dur":2553, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":3, "ts":1715649196164962, "dur":150, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1715649196166971, "dur":51, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1715649196165155, "dur":1881, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1715649196168521, "dur":74, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1715649196167179, "dur":1570, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1715649196168906, "dur":958, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1715649196169972, "dur":67, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1715649196170096, "dur":1055, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1715649196171336, "dur":1050, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1715649196172593, "dur":1632, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1715649196174394, "dur":64, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1715649196174490, "dur":190, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1715649196174686, "dur":1145, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1715649196176086, "dur":997, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1715649196177296, "dur":1274, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1715649196178973, "dur":207, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1715649196179186, "dur":889, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1715649196180263, "dur":939, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1715649196181369, "dur":984, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1715649196182582, "dur":1213, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1715649196184030, "dur":1426, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1715649196185596, "dur":469, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1715649196186106, "dur":1385, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1715649196187602, "dur":457, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1715649196188108, "dur":1407, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1715649196189639, "dur":89, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1715649196189756, "dur":1183, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1715649196191094, "dur":57, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1715649196191156, "dur":952, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1715649196192388, "dur":79, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1715649196192471, "dur":1692, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1715649196194397, "dur":66, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1715649196199252, "dur":430, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1715649196194499, "dur":5203, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1715649196199954, "dur":101, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1715649196200061, "dur":118, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1715649196202735, "dur":503, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1715649196200182, "dur":3072, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1715649196203524, "dur":82, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1715649196204810, "dur":79, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1715649196203609, "dur":1332, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1715649196205051, "dur":904, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1715649196209977, "dur":89, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1715649196205967, "dur":4259, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":3, "ts":1715649196210937, "dur":145, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1715649196217590, "dur":119, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1715649196211089, "dur":6681, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/sharedassets1.resource" }}
+,{ "pid":12345, "tid":3, "ts":1715649196256190, "dur":435, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1715649196217917, "dur":38755, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1715649196258768, "dur":206, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1715649196257161, "dur":1826, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":3, "ts":1715649196259272, "dur":889, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":3, "ts":1715649196260264, "dur":1363, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1715649196261822, "dur":1086, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/level2.resS" }}
+,{ "pid":12345, "tid":3, "ts":1715649196263079, "dur":70, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1715649196264725, "dur":84, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1715649196263160, "dur":1688, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/level1.resS" }}
+,{ "pid":12345, "tid":3, "ts":1715649196267154, "dur":83, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1715649196265022, "dur":2253, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/level0.resS" }}
+,{ "pid":12345, "tid":3, "ts":1715649196267412, "dur":4590, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/Game Design Project_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":3, "ts":1715649196272020, "dur":222, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1715649196272246, "dur":1196, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":3, "ts":1715649196273578, "dur":214405, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1715649196061436, "dur":18556, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1715649196079994, "dur":3540, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1715649196083536, "dur":3757, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1715649196087293, "dur":7389, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1715649196094722, "dur":241, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.27f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":4, "ts":1715649196094693, "dur":272, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":4, "ts":1715649196094966, "dur":92, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1715649196104988, "dur":6914, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":4, "ts":1715649196112073, "dur":214, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.27f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\web.config" }}
+,{ "pid":12345, "tid":4, "ts":1715649196112069, "dur":222, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1715649196112292, "dur":72, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1715649196113048, "dur":1949, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1715649196115113, "dur":188, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1715649196115303, "dur":64, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1715649196115383, "dur":77, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1715649196115467, "dur":2357, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1715649196117987, "dur":174, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":4, "ts":1715649196118244, "dur":1425, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":4, "ts":1715649196119785, "dur":206, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1715649196119993, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1715649196120400, "dur":1466, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1715649196121971, "dur":168, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.27f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1715649196121967, "dur":174, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1715649196123948, "dur":102, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1715649196122213, "dur":1926, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1715649196124249, "dur":174, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.27f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":4, "ts":1715649196124245, "dur":179, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Fcis Space Mission/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":4, "ts":1715649196124750, "dur":3381, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":4, "ts":1715649196128586, "dur":4458, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":4, "ts":1715649196133141, "dur":58, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1715649196133294, "dur":2739, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":4, "ts":1715649196136289, "dur":3387, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":4, "ts":1715649196139866, "dur":1168, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":4, "ts":1715649196141220, "dur":1082, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":4, "ts":1715649196142602, "dur":1284, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":4, "ts":1715649196145617, "dur":55, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1715649196144024, "dur":1706, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":4, "ts":1715649196145978, "dur":1250, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":4, "ts":1715649196147391, "dur":1232, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":4, "ts":1715649196148942, "dur":1194, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":4, "ts":1715649196150237, "dur":55, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1715649196150315, "dur":2886, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":4, "ts":1715649196153516, "dur":1266, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":4, "ts":1715649196154894, "dur":76, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1715649196155034, "dur":1612, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":4, "ts":1715649196156804, "dur":74, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1715649196156905, "dur":1819, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":4, "ts":1715649196158912, "dur":1094, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":4, "ts":1715649196160316, "dur":1387, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":4, "ts":1715649196161882, "dur":149, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1715649196162034, "dur":1141, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":4, "ts":1715649196163341, "dur":1179, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":4, "ts":1715649196164686, "dur":893, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1715649196165730, "dur":1001, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1715649196166894, "dur":1245, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1715649196168380, "dur":68, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1715649196168453, "dur":1291, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1715649196169861, "dur":56, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1715649196171081, "dur":139, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1715649196169983, "dur":1251, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1715649196172379, "dur":57, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1715649196171381, "dur":1099, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1715649196174448, "dur":408, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1715649196172606, "dur":2269, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1715649196175044, "dur":393, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1715649196175465, "dur":1768, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1715649196177373, "dur":1324, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1715649196178930, "dur":65, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1715649196179000, "dur":1067, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1715649196180233, "dur":107, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1715649196180343, "dur":1272, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1715649196181797, "dur":1248, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1715649196183201, "dur":73, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1715649196183281, "dur":1166, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1715649196184625, "dur":1769, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1715649196186541, "dur":1416, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1715649196188072, "dur":72, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1715649196188151, "dur":81, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1715649196189461, "dur":205, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1715649196188249, "dur":1433, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1715649196191094, "dur":229, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1715649196189859, "dur":1479, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1715649196191452, "dur":372, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1715649196191851, "dur":215, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1715649196200376, "dur":433, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1715649196192071, "dur":8760, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1715649196200994, "dur":501, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1715649196202860, "dur":177, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1715649196201500, "dur":1629, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1715649196203213, "dur":94, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1715649196203334, "dur":974, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1715649196247051, "dur":182, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1715649196204424, "dur":42874, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/sharedassets2.assets.resS" }}
+,{ "pid":12345, "tid":4, "ts":1715649196247447, "dur":79, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1715649196249695, "dur":178, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1715649196247532, "dur":2372, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":4, "ts":1715649196250122, "dur":8687, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":4, "ts":1715649196258972, "dur":76, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1715649196259108, "dur":938, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":4, "ts":1715649196260196, "dur":1451, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":4, "ts":1715649196261767, "dur":1106, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/resources.assets" }}
+,{ "pid":12345, "tid":4, "ts":1715649196263110, "dur":1229, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/level2" }}
+,{ "pid":12345, "tid":4, "ts":1715649196264489, "dur":1036, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/level1" }}
+,{ "pid":12345, "tid":4, "ts":1715649196265743, "dur":1046, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/level0" }}
+,{ "pid":12345, "tid":4, "ts":1715649196271740, "dur":75, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1715649196266914, "dur":5058, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":4, "ts":1715649196272177, "dur":1261, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Fcis Space Mission/Game Design Project_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":4, "ts":1715649196273560, "dur":214432, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1715649196497721, "dur":3457, "ph":"X", "name": "ProfilerWriteOutput" }
+,
