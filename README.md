@@ -1,2 +1,2 @@
 # FCIS_SPACE_MISSION
-### Game Design And Implementation
+### Game Design and Implementation
